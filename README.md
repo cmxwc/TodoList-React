@@ -1,2 +1,3 @@
 # TodoList-React
-Created with CodeSandbox
+simple todo list
+https://todolist-react-one.vercel.app/
